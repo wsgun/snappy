@@ -1,4 +1,4 @@
-# Snappy 🎵
+# Snappy 
 
 Snappy is a cloud-based web application that detects a user's emotion from a selfie using AWS Rekognition and recommends a song that matches their mood, in their choice of English, Korean, or Portuguese.
 
