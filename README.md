@@ -6,7 +6,7 @@ Snappy is a cloud-based web application that detects a user's emotion from a sel
 
 ## Demo
 
-[Add link to your demo video here]
+[[Snappy Demo]](https://youtu.be/mtCZG7bgZak)
 
 ## Architecture
 
