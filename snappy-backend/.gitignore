@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+static/
+snappy-app.zip
+.DS_Store
